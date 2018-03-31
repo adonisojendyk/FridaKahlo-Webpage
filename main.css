@@ -1,0 +1,26 @@
+body {
+  background-color: #ADD8E6;
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+.frida_kahloimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 440px;
+}
+.center {
+  width:550px;
+  margin:0 auto;
+  text-align:left;
+}
+.quote {
+  text-align: center;
+  font-family: serif;
+}
+.container-fluid {
+  text-align: center;
+  font-style: italic;
+}
